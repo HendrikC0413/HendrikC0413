@@ -39,7 +39,7 @@ Aquí puedes explorar mis soluciones reales más recientes desarrolladas bajo es
 * **Descripción:** Solución de software diseñada para la Ilustre Municipalidad de Ovalle que automatiza el registro del personal mediante contraseñas y hardware de código de barras. Cuenta con manejo riguroso de excepciones y ciclo completo de documentación técnica (SRS, diagramas UML y manuales).
 
 ### [Módulo Web de Solicitud de Grabado de Patentes Vehiculares](https://github.com/HendrikC0413/Proyecto_Patentes.git)
-* **Stack:** PHP + HTML5 + CSS3.
+* **Stack:** PHP + HTML5 + Bootstrap 5.
 * **Descripción:** Aplicación web desarrollada para la Ilustre Municipalidad de Monte Patria orientada a digitalizar trámites ciudadanos en línea. Incluye una arquitectura relacional limpia validada mediante diagramas de entidad-relación y de actividades.
 
 ---
